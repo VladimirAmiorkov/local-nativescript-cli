@@ -4,6 +4,6 @@
     "update": "rm -rf node_modules/ && npm i"
   },
   "dependencies": {
-    "nativescript": "file:nativescript-6.1.0-2019-08-14-171000-07.tgz"
+    "nativescript": "next"
   }
 }
